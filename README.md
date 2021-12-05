@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Vignesh048
-- 👀 I’m interested in Machine Learning, Artificial Intelligence.
-- 🌱 I’m currently learning Robotics and Artificial Intelligence.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Vignesh P, currently pursuing Master's in Robotics and Artificial Intelligence.
+- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence.
+
+
 
 <!---
 Vignesh048/Vignesh048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
