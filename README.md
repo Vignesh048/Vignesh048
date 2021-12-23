@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vignesh P, currently pursuing Master's in Robotics and Artificial Intelligence.
-- 👀 I’m interested in Data Science, Machine Learning, and Artificial Intelligence.
+- 👀 I’m interested in Natural Language Processing, Data Science, Machine Learning, and Artificial Intelligence.
 
 
 
