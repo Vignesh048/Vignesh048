@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Vignesh P, Master's student in Robotics and AI at IIT Guwahati
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vignesh_P-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vigneshp/)](https://www.linkedin.com/in/vigneshp/)
+[![Linkedin Badge](https://img.shields.io/badge/-Vignesh_P-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vignesh-p-iitg/)](https://www.linkedin.com/in/vignesh-p-iitg/)
 [![Gmail Badge](https://img.shields.io/badge/-vigneshraina048@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vigneshraina048@gmail.com)](mailto:vigneshraina048@gmail.com) 
 
 - 👀 I’m interested in Natural Language Processing, Computer Vision, Data Science, Machine Learning, and Artificial Intelligence.
