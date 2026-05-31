@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Vignesh P
 
-[![Gmail Badge](https://img.shields.io/badge/-vigneshraina048@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:vigneshraina048@gmail.com)
-
 I'm an **AI Engineer** working on real-world machine learning systems.
 
 - 👀 I'm interested in **Retrieval, RAG (Retrieval-Augmented Generation), and Synthetic Data Generation**.
